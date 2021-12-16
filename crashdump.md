@@ -1,8 +1,8 @@
 # Crashdump là gì?
-Crashdump là tệp có phần mở rộng `.log` và chứa thông tin quan trọng được sử dụng để xác định, tái tạo và sửa lỗi. Chúng chứa các thông tin con người có thể đọc được về sự cố và cũng có thể xem được các thông tin một cách trực quan tại trang web [Crash Archive (Kho lưu trữ sự cố)](https://crash.pmmp.io/) của PocketMine
+**Crashdump** là tệp có phần mở rộng `.log` và chứa thông tin quan trọng được sử dụng để xác định, tái tạo và sửa lỗi. Chúng chứa các thông tin con người có thể đọc được về sự cố và cũng có thể xem được các thông tin một cách trực quan tại trang web [Crash Archive (Kho lưu trữ sự cố)](https://crash.pmmp.io/) của PocketMine
 
 # Khi nào Crashdump file được tạo ra?
-Crashdump file được tạo ra khi máy chủ gặp các sự cố như:
+**Crashdump file** được tạo ra khi máy chủ gặp các sự cố như:
 - Plugin bị lỗi
 - Hết bộ nhớ do không đủ hoặc bộ nhớ bị rò rỉ
 - Các lỗi trong PocketMine-MP không thể khôi phục được
@@ -17,4 +17,4 @@ Crashdump file được tạo ra khi máy chủ gặp các sự cố như:
 - Nội dung của tệp pocketmine.yml và server.properties (thông tin nhạy cảm như mật khẩu RCON sẽ ẩn đi)
 
 # Crashdump file được tạo ra ở đâu?
-Crashdump file được tạo trong bên trong thư mục `crashdumps` (Thư mục `crashdumps` nằm bên trong thư mục có chứa `PocketMine-MP.phar`)
+**Crashdump file** được tạo trong bên trong thư mục `crashdumps` (Thư mục `crashdumps` nằm bên trong thư mục có chứa `PocketMine-MP.phar`)
